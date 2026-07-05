@@ -26,3 +26,5 @@ A responsive **Expense Tracker** web application built using **HTML, CSS, and Ja
 - **CSS3**
 - **JavaScript (ES6+)**
 - **Local Storage**
+
+![Expense Tracker](Expense.png)
